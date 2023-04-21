@@ -33,7 +33,7 @@ char *_strncpy(char *dest, char *src, int n)
 /**
  **_strncat - concatenates two strings together
  *@dest: the first string to be contaned
- *@src: the second string 
+ *@src: the second string
  *@n: the amount of bytes to be maximally used to concatene
  *Return: the concatenated string
  */
